@@ -1,0 +1,10 @@
+# This repository intentionally allows only curated showcase materials.
+/*
+!/README.md
+!/RIGHTS.md
+!/.gitignore
+!/assets/
+/assets/*
+!/assets/learn-with-rowan.png
+!/assets/scenario.png
+!/assets/preparation-card.png
